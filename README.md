@@ -11,11 +11,11 @@ create a .env file in the server folder and add the following:
 
 Things in curlybraces are arbitrary,
 
-MONGO_URI = {your dataBass URL}
-NODE_ENV = production
-PORT= {any port you want}
-SECRET = {Your secret}
-SECRET2 = {another secret}
+- MONGO_URI = {your dataBass URL}
+- NODE_ENV = production
+- PORT= {any port you want}
+- SECRET = {Your secret}
+- SECRET2 = {another secret}
 
 # Files to create in the client folder
 
