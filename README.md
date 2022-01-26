@@ -1,5 +1,4 @@
 # ecommerce-site
-
 A website where i can sell my beats in the future whenever i want to. Its secure and functional on mobile as well
 https://beatsbyalif.netlify.app/
 
@@ -21,7 +20,7 @@ Things in curlybraces are arbitrary,
 
 Create another .env file in the front end folder and add the following: 
 
-REACT_APP_API_URL = {your backend local host URL}
+- REACT_APP_API_URL = {your backend local host URL}
 
 # Install
 
